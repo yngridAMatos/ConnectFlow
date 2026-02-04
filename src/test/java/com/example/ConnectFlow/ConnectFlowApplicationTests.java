@@ -1,0 +1,13 @@
+package com.example.ConnectFlow;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ConnectFlowApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
